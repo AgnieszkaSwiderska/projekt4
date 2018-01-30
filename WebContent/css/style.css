@@ -1,0 +1,21 @@
+
+.btn1Wy {width: 240px; height: 60px;
+    background-color: white;
+	border-radius: 8px;
+	border: 1px solid #804040;}
+.btn1 {
+	width: 60px; 
+	height: 60px;
+	background-color: white;
+	border-radius: 8px;
+	border: 1px solid #804040;}
+	
+.btn2 {width: 60px; height:120px;
+	background-color: white;
+	border-radius: 8px;
+	border: 1px solid #804040;}
+	
+.btn1, .btn2 {
+	color: "${calculatorBean.color}";
+	background-color: "${calculatorBean.color_tla}";
+}
